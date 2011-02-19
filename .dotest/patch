@@ -1,0 +1,23 @@
+---
+ very |   11 +----------
+ 1 files changed, 1 insertions(+), 10 deletions(-)
+
+diff --git a/very b/very
+index ba3dc6f971a6dc972cfa26a619f8c5e068b736df..b06d6248d8fb17814cae026adee2673a486778d0 100644
+--- a/very
++++ b/very
+@@ -1,10 +1 @@
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-12
+-10
+-
++I am in junk.
+-- 
+1.5.4.3
+
